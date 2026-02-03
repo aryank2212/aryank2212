@@ -23,7 +23,7 @@ Most repositories here are have a variety of repositories varying on my needs, s
 ## Technical Stack
 
 **Research & Math**
-Linear Algebra • Optimization 
+Linear Algebra • Optimization • Calculas • Probability
 
 **Programming**
 Python • NumPy • PyTorch • C • Node.js • LaTeX
