@@ -3,8 +3,8 @@
 Undergraduate Computer Science student (B.Tech, 2029)  
 Focused on **machine learning systems, mathematical foundations of deep learning, and research-grade implementations**.
 
-📍 New Delhi, India  
-🎯 Actively preparing for **research engineer / Data sciences (international)**  
+-- Based in New Delhi, India
+-- Happily learning and preparing on **research engineer and Data sciences (international)**  
 
 ## Why this GitHub exists
 
