@@ -1,4 +1,4 @@
-# Aniket Rathour
+# Aryan Kumar
 
 Undergraduate Computer Science student (B.Tech, 2029)  
 Focused on **machine learning systems, mathematical foundations of deep learning, and research-grade implementations**.
