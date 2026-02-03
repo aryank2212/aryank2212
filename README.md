@@ -1,16 +1,37 @@
-## Hi there 👋
+# Aniket Rathour
 
-<!--
-**aryank2212/aryank2212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate Computer Science student (B.Tech, 2029)  
+Focused on **machine learning systems, mathematical foundations of deep learning, and research-grade implementations**.
 
-Here are some ideas to get you started:
+📍 New Delhi, India  
+🎯 Actively preparing for **research engineer / Data sciences (international)**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Why this GitHub exists
+
+This GitHub documents my my journey of transition from a write to a developer
+to a **research-oriented machine learning data science engineer**.
+
+My focus is not on quick demos or library-heavy projects, but on:
+- deriving algorithms from first principles,
+- implementing them from scratch,
+- reproducing published results,
+- and understanding *why* systems fail.
+- understanding the core concepts.
+
+Most repositories here are have a variety of repositories varying on my needs, some of it are the part of a structured, multi-year research roadmap.
+
+## Technical Stack
+
+**Research & Math**
+Linear Algebra • Optimization 
+
+**Programming**
+Python • NumPy • PyTorch • C • Node.js • LaTeX
+
+**Background**
+learning Full-stack development (MERN), systems thinking.
+
+## Contact
+
+📧 ak24682212@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/aryan-kumar-rajput-13b308343/)  
