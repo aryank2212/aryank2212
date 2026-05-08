@@ -1,6 +1,6 @@
 # Quote of the day ~
 "{ C makes it easy to shoot yourself in the foot;
-C++ makes it harder, bnut when you do, it blows
+C++ makes it harder, but when you do, it blows
 your whole leg off. }"
 
 # Aryan Kumar
