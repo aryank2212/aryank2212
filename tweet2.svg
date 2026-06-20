@@ -1,0 +1,16 @@
+<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="200" rx="15" fill="#000000" stroke="#333333" stroke-width="2"/>
+  
+  <image href="https://github.com/aryank2212.png" x="25" y="25" height="48" width="48" clip-path="url(#circleView)"/>
+  <clipPath id="circleView">
+    <circle cx="49" cy="49" r="24" />
+  </clipPath>
+
+  <text x="90" y="45" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ffffff">Aryan Kumar</text>
+  <text x="200" y="45" font-family="Arial, sans-serif" font-size="14" fill="#888888">@aryank2212</text>
+  
+  <text font-family="Arial, sans-serif" font-size="18" fill="#ffffff">
+    <tspan x="90" y="80">"A program which can't be written in javascript,</tspan><tspan x="90" y="105">will eventually be written in javascript"</tspan>
+  </text>
+  <text x="90" y="170" font-family="Arial, sans-serif" font-size="14" fill="#888888">10:05 AM · Jan 20, 2026</text>
+</svg>
