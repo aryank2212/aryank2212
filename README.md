@@ -32,54 +32,44 @@
 <br>
 
 <div align="center">
-  <table width="100%" style="border: none;">
+  <table width="49%" align="left" style="background-color: #1e1e1e; border-radius: 8px; border: 1px solid #333; overflow: hidden; border-spacing: 0;">
     <tr>
-      <td width="50%" valign="top">
-        <h2 align="center"># Hobbies</h2>
-        <!-- Terminal Like Hobbies Frame -->
-        <table width="100%" style="background-color: #1e1e1e; border-radius: 8px; border: 1px solid #333; overflow: hidden; border-spacing: 0;">
-          <tr>
-            <td style="background-color: #333; padding: 12px 12px; border-bottom: 1px solid #222;">
-              <span style="color: #ff5f56; font-size: 16px;">●</span>&nbsp;<span style="color: #ffbd2e; font-size: 16px;">●</span>&nbsp;<span style="color: #27c93f; font-size: 16px;">●</span>
-              <span style="color: #aaa; margin-left: 20px; font-family: monospace; font-size: 14px;">ak@ubuntu: ~/hobbies</span>
-            </td>
-          </tr>
-          <tr>
-            <td style="padding: 20px; color: #fff; font-family: 'Courier New', Courier, monospace; font-size: 15px; text-align: left; line-height: 1.5;">
-              <span style="color: #27c93f; font-weight: bold;">ak@ubuntu</span>:<span style="color: #3b8eea; font-weight: bold;">~/hobbies</span>$ ls -la<br>
-              > <span style="color: #4ec9b0;">Building my homelab & server (Anton)</span><br>
-              > <span style="color: #ce9178;">Tinkering and building random tech stuff</span><br>
-              > <span style="color: #dcdcaa;">Sipping good coffee while coding</span><br><br>
-              <span style="color: #27c93f; font-weight: bold;">ak@ubuntu</span>:<span style="color: #3b8eea; font-weight: bold;">~/hobbies</span>$ <span style="animation: blink 1s step-end infinite;">█</span>
-            </td>
-          </tr>
-        </table>
+      <td style="background-color: #333; padding: 12px 12px; border-bottom: 1px solid #222;">
+        <span style="color: #ff5f56; font-size: 16px;">●</span>&nbsp;<span style="color: #ffbd2e; font-size: 16px;">●</span>&nbsp;<span style="color: #27c93f; font-size: 16px;">●</span>
+        <span style="color: #aaa; margin-left: 20px; font-family: monospace; font-size: 14px;">ak@ubuntu: ~</span>
       </td>
-      <td width="50%" valign="top">
-        <h2 align="center"># About</h2>
-        <!-- Terminal Like Info Frame -->
-        <table width="100%" style="background-color: #1e1e1e; border-radius: 8px; border: 1px solid #333; overflow: hidden; border-spacing: 0;">
-          <tr>
-            <td style="background-color: #333; padding: 12px 12px; border-bottom: 1px solid #222;">
-              <span style="color: #ff5f56; font-size: 16px;">●</span>&nbsp;<span style="color: #ffbd2e; font-size: 16px;">●</span>&nbsp;<span style="color: #27c93f; font-size: 16px;">●</span>
-              <span style="color: #aaa; margin-left: 20px; font-family: monospace; font-size: 14px;">ak@ubuntu: ~</span>
-            </td>
-          </tr>
-          <tr>
-            <td style="padding: 20px; color: #fff; font-family: 'Courier New', Courier, monospace; font-size: 15px; text-align: left; line-height: 1.5;">
-              <span style="color: #27c93f; font-weight: bold;">ak@ubuntu</span>:<span style="color: #3b8eea; font-weight: bold;">~</span>$ cat info.txt<br>
-              > 🎓 <span style="color: #dcdcaa;">Name: Aryan Kumar Rajput</span><br>
-              > 🎓 <span style="color: #dcdcaa;">B.Tech CS Student (2029)</span><br>
-              > 🧠 <span style="color: #ce9178;">Focus: ML Systems & Deep Learning Math</span><br>
-              > 🎯 <span style="color: #9cdcfe;">Goal: Research Engineer / Data Science</span><br>
-              > 📍 <span style="color: #4ec9b0;">Location: New Delhi, India</span><br><br>
-              <span style="color: #27c93f; font-weight: bold;">ak@ubuntu</span>:<span style="color: #3b8eea; font-weight: bold;">~</span>$ <span style="animation: blink 1s step-end infinite;">█</span>
-            </td>
-          </tr>
-        </table>
+    </tr>
+    <tr>
+      <td style="padding: 20px; color: #fff; font-family: 'Courier New', Courier, monospace; font-size: 15px; text-align: left; line-height: 1.5;">
+        <span style="color: #27c93f; font-weight: bold;">ak@ubuntu</span>:<span style="color: #3b8eea; font-weight: bold;">~</span>$ cat info.txt<br>
+        > 🎓 <span style="color: #dcdcaa;">Name: Aryan Kumar Rajput</span><br>
+        > 🎓 <span style="color: #dcdcaa;">B.Tech CS Student (2029)</span><br>
+        > 🧠 <span style="color: #ce9178;">Focus: ML Systems & Deep Learning Math</span><br>
+        > 🎯 <span style="color: #9cdcfe;">Goal: Research Engineer / Data Science</span><br>
+        > 📍 <span style="color: #4ec9b0;">Location: New Delhi, India</span><br><br>
+        <span style="color: #27c93f; font-weight: bold;">ak@ubuntu</span>:<span style="color: #3b8eea; font-weight: bold;">~</span>$ <span style="animation: blink 1s step-end infinite;">█</span>
       </td>
     </tr>
   </table>
+
+  <table width="49%" align="right" style="background-color: #1e1e1e; border-radius: 8px; border: 1px solid #333; overflow: hidden; border-spacing: 0;">
+    <tr>
+      <td style="background-color: #333; padding: 12px 12px; border-bottom: 1px solid #222;">
+        <span style="color: #ff5f56; font-size: 16px;">●</span>&nbsp;<span style="color: #ffbd2e; font-size: 16px;">●</span>&nbsp;<span style="color: #27c93f; font-size: 16px;">●</span>
+        <span style="color: #aaa; margin-left: 20px; font-family: monospace; font-size: 14px;">ak@ubuntu: ~/hobbies</span>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 20px; color: #fff; font-family: 'Courier New', Courier, monospace; font-size: 15px; text-align: left; line-height: 1.5;">
+        <span style="color: #27c93f; font-weight: bold;">ak@ubuntu</span>:<span style="color: #3b8eea; font-weight: bold;">~/hobbies</span>$ ls -la<br>
+        > <span style="color: #4ec9b0;">Building my homelab & server (Anton)</span><br>
+        > <span style="color: #ce9178;">Tinkering and building random tech stuff</span><br>
+        > <span style="color: #dcdcaa;">Sipping good coffee while coding</span><br><br>
+        <span style="color: #27c93f; font-weight: bold;">ak@ubuntu</span>:<span style="color: #3b8eea; font-weight: bold;">~/hobbies</span>$ <span style="animation: blink 1s step-end infinite;">█</span>
+      </td>
+    </tr>
+  </table>
+  <div style="clear:both;"></div>
 </div>
 
 ## # Weapon Arsenal
