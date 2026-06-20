@@ -69,7 +69,8 @@
       </td>
     </tr>
   </table>
-  <div style="clear:both;"></div>
+  <br clear="all" />
+  <br />
 </div>
 
 ## # Weapon Arsenal
