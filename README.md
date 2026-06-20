@@ -32,7 +32,7 @@
 <br>
 
 <div align="center">
-  <table width="49%" align="left" style="background-color: #1e1e1e; border-radius: 8px; border: 1px solid #333; overflow: hidden; border-spacing: 0;">
+  <table align="left" style="background-color: #1e1e1e; border-radius: 8px; border: 1px solid #333; overflow: hidden; border-spacing: 0;">
     <tr>
       <td style="background-color: #333; padding: 12px 12px; border-bottom: 1px solid #222;">
         <span style="color: #ff5f56; font-size: 16px;">●</span>&nbsp;<span style="color: #ffbd2e; font-size: 16px;">●</span>&nbsp;<span style="color: #27c93f; font-size: 16px;">●</span>
@@ -47,12 +47,13 @@
         > 🧠 <span style="color: #ce9178;">Focus: ML Systems & Deep Learning Math</span><br>
         > 🎯 <span style="color: #9cdcfe;">Goal: Research Engineer / Data Science</span><br>
         > 📍 <span style="color: #4ec9b0;">Location: New Delhi, India</span><br><br>
-        <span style="color: #27c93f; font-weight: bold;">ak@ubuntu</span>:<span style="color: #3b8eea; font-weight: bold;">~</span>$ <span style="animation: blink 1s step-end infinite;">█</span>
+        <span style="color: #27c93f; font-weight: bold;">ak@ubuntu</span>:<span style="color: #3b8eea; font-weight: bold;">~</span>$ <span style="animation: blink 1s step-end infinite;">█</span><br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="390" height="1" />
       </td>
     </tr>
   </table>
 
-  <table width="49%" align="right" style="background-color: #1e1e1e; border-radius: 8px; border: 1px solid #333; overflow: hidden; border-spacing: 0;">
+  <table align="right" style="background-color: #1e1e1e; border-radius: 8px; border: 1px solid #333; overflow: hidden; border-spacing: 0;">
     <tr>
       <td style="background-color: #333; padding: 12px 12px; border-bottom: 1px solid #222;">
         <span style="color: #ff5f56; font-size: 16px;">●</span>&nbsp;<span style="color: #ffbd2e; font-size: 16px;">●</span>&nbsp;<span style="color: #27c93f; font-size: 16px;">●</span>
@@ -65,7 +66,8 @@
         > <span style="color: #4ec9b0;">Building my homelab & server (Anton)</span><br>
         > <span style="color: #ce9178;">Tinkering and building random tech stuff</span><br>
         > <span style="color: #dcdcaa;">Sipping good coffee while coding</span><br><br>
-        <span style="color: #27c93f; font-weight: bold;">ak@ubuntu</span>:<span style="color: #3b8eea; font-weight: bold;">~/hobbies</span>$ <span style="animation: blink 1s step-end infinite;">█</span>
+        <span style="color: #27c93f; font-weight: bold;">ak@ubuntu</span>:<span style="color: #3b8eea; font-weight: bold;">~/hobbies</span>$ <span style="animation: blink 1s step-end infinite;">█</span><br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="390" height="1" />
       </td>
     </tr>
   </table>
