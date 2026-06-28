@@ -21,6 +21,7 @@
           <b>#Holy_Tech_Quotes</b><br><br>
           -> "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off."<br><br>
           -> "A program which can't be written in javascript, will eventually be written in javascript"
+         
           -> "Machine learning taught me that anything can learn except me"
         </span>
         <br><br>
