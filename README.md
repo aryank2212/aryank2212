@@ -21,7 +21,11 @@
           <b>#Holy_Tech_Quotes</b><br><br>
           -> "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off."<br><br>
           -> "A program which can't be written in javascript, will eventually be written in javascript"<br><br>
-          -> "Machine learning taught me that anything can learn except me"
+          -> "Machine learning taught me that anything can learn except me."<br><br>
+          -> "Python is the second-best language for everything."<br><br>
+          -> "Git commit -m 'fix'" — famous last words."<br><br>
+          -> "In order to understand recursion, you must first understand recursion."<br><br>
+          -> "C is the programming equivalent of Russian roulette with six bullets and a smile."
         </span>
         <br><br>
         <span style="color: #888; font-size: 14px;">10:00 AM · Jan 20, 2026</span>
