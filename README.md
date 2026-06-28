@@ -20,8 +20,7 @@
         <span style="font-size: 18px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
           <b>#Holy_Tech_Quotes</b><br><br>
           -> "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off."<br><br>
-          -> "A program which can't be written in javascript, will eventually be written in javascript"
-         
+          -> "A program which can't be written in javascript, will eventually be written in javascript"<br><br>
           -> "Machine learning taught me that anything can learn except me"
         </span>
         <br><br>
